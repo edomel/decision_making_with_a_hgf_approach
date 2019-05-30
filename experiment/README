@@ -1,0 +1,11 @@
+The basic experiment:
+
+execute experiment.m in matlab and follow the instruction
+
+The data will be stored at the end of the experiment
+
+In this first version of the experiment the first two sets will have visual input and the third an audio input.
+Make sure to have the audio of the computer active
+
+All the output of this experiment will be binary signals
+There will be first a small questionnaire that will then be used to interpret the data collected
