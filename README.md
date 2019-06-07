@@ -3,12 +3,12 @@
 The code in this repository is organized in this way:
 
 There are two branches of experiment.
-These execute the same experiment in different oreders
+These execute the same experiment in different orders
 
 There is a computations folder.
-Here all the preprocessing for the collected data is done before the hgf
+It is is done here all the preprocessing for the collected data before the hgf.
 There is also some code simulating the experiment with different approaches and its results are fitted too
-It is a big folder as here are stored also all the results of furder computations on the data
+It is a big folder as here are stored also all the results of further computations on the data
 
 There is a folder for the collected data
 The data we could collect and process in our experiment is saved in this folder
